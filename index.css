@@ -1,0 +1,27 @@
+.reusable-input-field {
+  width: 12em;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 0.5em;
+  margin: 0.75em;
+}
+
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
